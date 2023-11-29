@@ -9,7 +9,7 @@ Dataset Information:
 
 Below is the attribute information:
 
-Pregnancies: Number of times pregnant <br>
+Pregnancies: Number of times pregnant (`<br>`)
 Glucose: Plasma glucose concentration 2 hours in an oral glucose tolerance test <br>
 Blood pressure: Diastolic blood pressure (mm Hg) <br>
 SkinThickness: Triceps skinfold thickness (mm) <br>
